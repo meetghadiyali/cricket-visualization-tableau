@@ -3,6 +3,7 @@
 * Using the Tableau software to analyze cricket data and answer a few key questions. 
 * Data was used from https://cricsheet.org/
 
+Tableau Public Workbook: https://public.tableau.com/profile/meet.ghadiyali#!/vizhome/Cricket-Analysis/Dashboard1
 
 
 
