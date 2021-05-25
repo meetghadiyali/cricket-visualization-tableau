@@ -1,4 +1,4 @@
-# Cricket Tableau Analysis
+# Cricket Visualization: Using Tableau
 
 * Using the Tableau software to analyze cricket data and answer a few key questions. 
 * Data was used from https://cricsheet.org/
